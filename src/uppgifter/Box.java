@@ -9,10 +9,10 @@ public class Box<T> {
 
 	public static boolean uppgift5(Box a, Box b) {
 
-		if (a.objects[0] instanceof b.objects[0].getClass())
+	//	if (a.objects[0] instanceof b.objects[0].getClass())
 			return true;
 
-		return false;
+	//	return false;
 	}
 
 	public static void main(String[] args) {
