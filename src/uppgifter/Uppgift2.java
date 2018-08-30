@@ -5,6 +5,11 @@ public class Uppgift2 {
 		System.out.println(uppgift2("Hell Seger"));
 	}
 	
-	public String uppgift2() {
+	public String uppgift2(String ord, String slut) {
+		
+		slut += ord.charAt(ord.length());
+		
+		ord.ord.charAt(ord.length())
+		
 	}
 }
